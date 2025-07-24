@@ -1,1 +1,1 @@
-# edunet-water-Quality-prediction
+# edunet-💧 Water Quality Prediction
